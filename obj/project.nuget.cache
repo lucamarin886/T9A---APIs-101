@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OHmTPjBs/zw=",
+  "dgSpecHash": "R42usnVdJAs=",
   "success": true,
-  "projectFilePath": "/home/pseudomortus/repos/T9A – APIs 101/T9A – APIs 101.csproj",
+  "projectFilePath": "C:\\Users\\LucaMarin\\Downloads\\T9A---APIs-101\\T9A – APIs 101.csproj",
   "expectedPackageFiles": [
-    "/root/.nuget/packages/dotenv.core/3.1.1/dotenv.core.3.1.1.nupkg.sha512"
+    "C:\\Users\\LucaMarin\\.nuget\\packages\\dotenv.core\\3.1.1\\dotenv.core.3.1.1.nupkg.sha512"
   ],
   "logs": []
 }

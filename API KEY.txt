@@ -1,0 +1,6 @@
+API key
+Model
+Temperature
+Message/Query
+Database
+Location
